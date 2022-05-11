@@ -1,0 +1,5 @@
+# DisneyPlus
+
+USER-AGENT,*disneyplus*
+USER-AGENT,Disney*
+DOMAIN-SUFFIX,disneyplus.com
