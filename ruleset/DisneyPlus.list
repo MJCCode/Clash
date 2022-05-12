@@ -1,9 +1,0 @@
-# DisneyPlus
-USER-AGENT,Disney+*,Disney
-DOMAIN-SUFFIX,disneyplus.com,Disney
-DOMAIN-SUFFIX,disney-plus.net,Disney
-DOMAIN-SUFFIX,cdn.registerdisney.go.com,Disney
-DOMAIN-SUFFIX,dssott.com,Disney
-DOMAIN-SUFFIX,edge.bamgrid.com,Disney
-DOMAIN-SUFFIX,sentry.io,Disney
-DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com,Disney
