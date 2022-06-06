@@ -2,5 +2,10 @@
 DOMAIN-SUFFIX,faster.buzz
 DOMAIN-SUFFIX,paoluz.link
 DOMAIN-SUFFIX,yiyo.io
-DOMAIN-SUFFIX,paofu.cloud
-DOMAIN-SUFFIX,renzhe.cloud
+
+# RenzheCloud
+DOMAIN,renzhe.cloud
+DOMAIN,renzhecloud.com
+DOMAIN,knowledgebase.renzhecloud.link
+DOMAIN,status.renzhecloud.link
+DOMAIN,renzhesubconverter.com
