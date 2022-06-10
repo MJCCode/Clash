@@ -1,7 +1,6 @@
-# 机场
+# FastFrogCloud
 DOMAIN-SUFFIX,faster.buzz
-DOMAIN-SUFFIX,paoluz.link
-DOMAIN-SUFFIX,yiyo.io
+
 
 # RenzheCloud
 DOMAIN,renzhe.cloud
@@ -9,3 +8,7 @@ DOMAIN,renzhecloud.com
 DOMAIN,knowledgebase.renzhecloud.link
 DOMAIN,status.renzhecloud.link
 DOMAIN,renzhesubconverter.com
+
+# Other
+DOMAIN-SUFFIX,paoluz.link
+DOMAIN-SUFFIX,yiyo.io
