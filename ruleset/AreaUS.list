@@ -5,6 +5,10 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,exhentai.org
 
+# Nexus Mods
+DOMAIN-SUFFIX,nexusmods.com
+DOMAIN-SUFFIX,nexus-cdn.com
+
 # DigitalOcean
 DOMAIN-SUFFIX,digitalocean.com
 DOMAIN-SUFFIX,digitaloceanspaces.com
